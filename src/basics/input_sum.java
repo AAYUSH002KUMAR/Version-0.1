@@ -15,5 +15,6 @@ public class input_sum {
 
         System.out.println(sum);
         System.out.println(product);
+        sc.close();
     }
 }
