@@ -2,7 +2,7 @@ package basics;
 
 import java.util.*;
 
-public class type_promotion {
+public class type_promotion_sum {
 
     public static void main(String[] argss) {
 
